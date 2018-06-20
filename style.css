@@ -42,7 +42,31 @@ p a {
 
 .sub_article {
     border: 3px solid black;
-    margin: 17% 2%;
+    margin: 17% 4%;
     border-right: none;
     border-left: none;
+}
+.sub_article h4 {
+    margin-bottom: 0.1rem;
+}
+.sub_article h3 {
+    margin-bottom: 2rem;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.sub_article hr {
+    margin: 0;
+}
+
+h4 a {
+    color: #8a940d;
+    font-size: 1.2em;
+}
+
+address {
+    font-size: 0.8em;
+    color: #8b7687;
+    margin-bottom: 0.5rem;
+
 }
