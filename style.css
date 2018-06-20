@@ -32,3 +32,8 @@ h2 {
     text-transform: uppercase;
     font-size: 1.5em;
 }
+
+p a {
+    color: #8a940d;
+    text-decoration: underline;
+}
