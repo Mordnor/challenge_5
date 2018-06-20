@@ -1,4 +1,5 @@
 /* ==============================HEADER============================== */
+
 .navbar {
     background-color: black;
 }
@@ -7,13 +8,27 @@
     padding: 0;
 }
 
-h3 {
-    font-size: 0.7em;
+.col-12 {
+    padding: 0;
+}
+
+.black_article {
+    background-color: black;
+    color: white;
+    font-family: 'Lato', sans-serif;
     text-transform: uppercase;
 }
 
-h2 {
-    font-size: 0.8em;
-    text-transform: uppercase;
+h4 {
+    font-size: 0.7em;
+}
 
+h3 {
+    font-size: 0.8em;
+}
+
+h2 {
+    font-family: 'Lato', sans-serif;
+    text-transform: uppercase;
+    font-size: 1.5em;
 }
